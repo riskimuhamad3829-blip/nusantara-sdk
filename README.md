@@ -17,8 +17,8 @@ Riski SDK adalah command-line interface (CLI) tool canggih yang dirancang untuk 
 
 1. Clone repositori ini ke komputer lokal Anda:
    ```bash
-   git clone https://github.com/USERNAME/riski-sdk.git
-   cd riski-sdk
+   git clone https://github.com/riskimuhamad3829-blip/nusantara-sdk.git
+cd nusantara-sdk
    ```
 
 2. Berikan izin eksekusi (*execute permission*) pada file `riski_sdk.py`:
